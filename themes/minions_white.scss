@@ -53,7 +53,7 @@ section.has-dark-background {
         filter: none;
     }
     &.semi-filtered {
-        filter: grayscale(60%) opacity(40%) blur(0);
+        filter: grayscale(60%) opacity(20%) blur(0);
     }
 }
 
