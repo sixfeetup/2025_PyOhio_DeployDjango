@@ -21,6 +21,10 @@ keywords:
 We struggled so you don't have to
 :::
 
+# Talk Slides
+<https://github.com/sixfeetup/2025_PyOhio_DeployDjango>
+![](images/presentation_qr.png)
+
 # GitOps: The Operating Model {data-background-image="images/Chuttersnap Unsplash.jpg"}
 
 * **Single Source of Truth**
