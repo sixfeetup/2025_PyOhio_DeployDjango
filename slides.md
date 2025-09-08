@@ -4,7 +4,7 @@ pagetitle: "Deploy Django: GitOps & Kubernetes Made Easy"
 author: Calvin Hendryx-Parker, CTO, Six Feet Up
 author-meta:
     - Calvin Hendryx-Parker
-date: PyOhio 2025
+date: DjangoCon 2025
 date-meta: 2025
 keywords:
     - Kubernetes
@@ -15,7 +15,7 @@ keywords:
 # Deploy Django: GitOps & Kubernetes Made Easy {.semi-filtered data-background-image="images/Chris Linnett Unsplash.jpg"}
 #### Calvin Hendryx-Parker, CTO
 #### Six Feet Up
-### PyOhio 2025
+### DjangoCon 2025
 
 ::: notes
 We struggled so you don't have to
